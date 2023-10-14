@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">A passionate Jr. Java Spring Backend developer</h3>
+<h3 align="center">Jr. Java Spring Backend developer</h3>
 
 - 📫 How to reach me **eminttufan@gmail.com**
 
